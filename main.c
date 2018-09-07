@@ -74,7 +74,7 @@ int main()
         printf ("\n\nEl resultado de A+B= %.0f", resulsuma);
         printf ("\nEl resultado de A-B= %.0f", resulresta);
         printf ("\nEl resultado de A*B= %.0f", resulmultiplicacion);
-        printf ("\nEl resultado de A/B= %.0f", resuldivision);
+        printf ("\nEl resultado de A/B= %.2f", resuldivision);
         printf ("\nEl Factorial de A= %.0f El Factorial de B= %.0f\n\n", resulfactorialA, resulfactorialB);
 
 
